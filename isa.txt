@@ -1,0 +1,6 @@
+opcode: 0010011
+funct3: 000
+
+opcode: 0110011 
+funct3: 000 
+funct7: 0000000
